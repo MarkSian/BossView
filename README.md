@@ -33,6 +33,8 @@ To use this application, locate the folder holding the application's file and in
 
 ## Usage
 After following the installation steps above, execute "node index.js".
+
+
 ![alt text](<Challenge 10.PNG>)
 
 ## Walkthrough Video
